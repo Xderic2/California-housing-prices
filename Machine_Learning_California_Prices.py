@@ -1,7 +1,7 @@
 
 from __future__ import division, print_function, unicode_literals
 
-
+#Import the appropiate packages
 import numpy as np
 import os
 
